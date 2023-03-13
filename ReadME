@@ -1,0 +1,4 @@
+Öncelikle Pizza Sipariş Sistemimize Giriş Yapıp Kodu Çalıştırıyoruz.
+Ardından program bize seçmemiz için bir pizza sunuyor. Pek tabii öncesinde sos ve pizzaların bulunduğu bir menü main() olarak karşımıza geliyor.
+Pizza Seçimi Sonrasında Bize mevcut sepetimizi ve sepet tutarını bildiren bir string eşliğinde sos seçimi yapıyoruz.
+Sos seçimi ardından kişisel bilgilerimizi girip onayladıktan sonra siparişimiz ve kart bilgilerimiz alınıp order dosyasına csv veya txt olarak karydediliyor.
